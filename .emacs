@@ -1,0 +1,1 @@
+(load "c:/bin/config/emacs/loadothers.el")
