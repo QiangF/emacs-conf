@@ -34,7 +34,7 @@ aaa
 
 (let (abc) (setq abc "sdsdsd") abc)
 
-;; ´Ó1¿ªÊ¼µÄ
+;; ä»Ž1å¼€å§‹çš„
 (buffer-substring-no-properties 1 100)
 
 ;; add to list , side effect
